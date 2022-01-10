@@ -1,8 +1,10 @@
 # Markdown语法
 
 Source: 
-1. https://www.zhihu.com/search?type=content&q=markdown
+1. https://zhuanlan.zhihu.com/p/86516807
 2. https://blog.csdn.net/ZM_Yang/article/details/105617607
+3. https://support.typora.io/Markdown-Reference/
+4. https://www.markdownguide.org/cheat-sheet/
 
 其实常用的就那么几个：
 1. 标题；
